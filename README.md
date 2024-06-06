@@ -9,7 +9,7 @@
 
 ## Organisations
 <p align="left">
-  <img src="/imgs/orgs/Macdiarmid.png" alt="Macdiarmid logo" height="100" width="100" />
+  <img src="/imgs/Orgs/Macdiarmid.png" alt="Macdiarmid logo" height="100" width="100" />
   <img src="/imgs/Orgs/VUW.png" alt="VUW Logo" height="100" width="100" />
   <img src="/imgs/Orgs/VEC.png" alt="VEC logo" height="100" width="100" />
   <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="100" width="120" />
