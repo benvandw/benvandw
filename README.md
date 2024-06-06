@@ -1,7 +1,13 @@
-## Hi there 👋
+## Hey Im Ben 
 
+- I'm a **First Year Cyber Security** Engineering Hons Student 
+- I Specialise in Digital Forensics, Incident Response and **Cyber Crime investigation**
+- I **Lead groups** and projects with a passion for getting things done  
+- Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more informtion about me , or [contact me](contact@greenbeanie.com)
+- You can also [Veiw my Portfolio](https://www.greenbeanie.dev/)
+<p align="center">
+  
 <!--
-**benvandw/benvandw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
