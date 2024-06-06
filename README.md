@@ -9,11 +9,12 @@
 
 ## Organisations
 <p align="left">
-  <img src="VUW" alt="VUW Logo" height="100" width="100" />
   <img src="macdiarmid" alt="macdiarmid Logo" height="100" width="100" />
-  <img src="AjaxIA" alt="ajaxia logo" height="100" width="100" />
+  <img src="download-removebg-preview (1).png" alt="VUW Logo" height="100" width="100" />
   <img src="VEC" alt="VEC logo" height="100" width="100" />
-  <img src="VSEC" alt="VSEC logo" height="100" width="100" />
+  <img src="vsec_small-removebg-preview (1).png" alt="VSEC logo" height="100" width="120" />
+  <img src="download-removebg-preview.png" alt="ajaxia logo" height="100" width="100" />
+  
 </p>
 
 ## Platforms
