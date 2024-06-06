@@ -15,6 +15,7 @@
   <img src="VEC" alt="VEC logo" height="100" width="100" />
   <img src="VSEC" alt="VSEC logo" height="100" width="100" />
 </p>
+
 ## Platforms
 <p align="left">
   <img src="KaliP" alt="kali Purple Logo" height="112" width="100" />
