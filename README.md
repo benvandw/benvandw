@@ -12,11 +12,11 @@
   <img src="/imgs/Orgs/Macdiarmid.png" alt="Macdiarmid logo" height="100" width="100" />
   <img src="/imgs/Orgs/VUW.png" alt="VUW Logo" height="100" width="100" />
   <img src="/imgs/Orgs/VEC.png" alt="VEC logo" height="100" width="100" />
-  <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="100" width="120" />
-  <img src="/imgs/Orgs/AjaxIA.png" alt="ajaxia logo" height="100" width="100" />
+  <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="110" width="142" />
+  <img src="/imgs/Orgs/AjaxIA.png" alt="ajaxia logo" height="110" width="110" />
   <img src="/imgs/Orgs/EngNZ.png" alt="Engineering NZ logo" height="100" width="179" />
   <img src="/imgs/Orgs/Momentum.png" alt="Momentum logo" height="100" width="100" />
-  <img src="/imgs/Orgs/ROS.png" alt="Return on Science Digital Technologies logo" height="100" width="180" />
+  <img src="/imgs/Orgs/ROS.png" alt="Return on Science Digital Technologies logo" height="100" width="200" />
 </p>
 
 ## Platforms
