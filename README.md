@@ -14,7 +14,9 @@
   <img src="/imgs/Orgs/VEC.png" alt="VEC logo" height="100" width="100" />
   <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="100" width="120" />
   <img src="/imgs/Orgs/AjaxIA.png" alt="ajaxia logo" height="100" width="100" />
-  <img src="/imgs/Orgs/EngNZ.png" alt="ajaxia logo" height="100" width="100" />
+  <img src="/imgs/Orgs/EngNZ.png" alt="Engineering NZ logo" height="100" width="179" />
+  <img src="/imgs/Orgs/Momentum.png" alt="Momentum logo" height="100" width="100" />
+  <img src="/imgs/Orgs/ROS.png" alt="Return on Science Digital Technologies logo" height="100" width="180" />
 </p>
 
 ## Platforms
@@ -23,6 +25,7 @@
   <img src="/imgs/Plats/GitLab" alt="GitLab logo" height="128" width="100" />
   <img src="/imgs/Plats/autopsy-logo.svg" alt="Autopsy logo" height="120" width="120" />
   <img src="/imgs/Plats/Powershell" alt="Powershell logo" height="100" width="100" />
+  <img src="/imgs/Plats/WireShark.png" alt="Wireshark logo" height="80" width="80" />
 </p>
 
 ## Languages
