@@ -1,7 +1,7 @@
 ## Hey I'm Ben 
 
 - I'm a **First Year Cyber Security** Engineering Hons Student 
-- I Specialise in Digital Forensics, Incident Response and **Cyber Crime investigation**
+- I Specialise in **Cyber Crime investigation** Digital Forensics and Incident Response
 - I **Lead groups** and projects with a passion for getting things done  
 - Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more informtion about me , or [contact me](contact@greenbeanie.com)
 - You can also [Veiw my Portfolio](https://www.greenbeanie.dev/)
