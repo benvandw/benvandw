@@ -1,11 +1,10 @@
-## Hey I'm Ben 
+## Hey I'm Ben!
 
 - I'm a **First Year Cyber Security** Engineering Hons Student 
-- I Specialise in **Cyber Crime investigation** Digital Forensics and Incident Response
-- I **Lead groups** and projects with a passion for getting things done  
-- Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more informtion about me , or [contact me](contact@greenbeanie.com)
-- You can also [Veiw my Portfolio](https://www.greenbeanie.dev/)
-
+- I Specialise in **Cyber Crime investigation,** Digital Forensics and Incident Response
+- I **Lead groups** and projects with a passion for getting things done
+- I sit on 3 Executive boards shown below, VEC, Momentum Wellington and Digital Technologies(by UniServices) 
+- Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more information, [contact me](contact@greenbeanie.com) or [view my Portfolio](https://www.greenbeanie.dev/)
 
 ## Organisations
 <p align="left">
@@ -35,3 +34,6 @@
   <img src="/imgs/Lang/Python" alt="Python logo" height="100" width="100" />
   <img src="/imgs/Lang/Java" alt="Java Logo" height="110" width="120" />
 </p>
+
+## Mission and Goal
+- I aim to implement and engineer technologies to combat CyberCrime nationwide, along with this I have been personally investigating a CyberCrime Syndicate operating throughout the Asia-Pacific region that targets small businesses. I plan to use this research and goal in my Honours thesis where I aim to expose and take down the sydicate in collaboration with national law enforcement (not currently affiliated in any way), Feel free to [contact me](contact@greenbeanie.com) if you have any tips or would like to collaborate on this project.
