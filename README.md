@@ -44,6 +44,7 @@
 - Network and Inter-Network based info Analysis
 - Contact Tracing
 - Malware analysis
+- WHOIS, DNS, Website analysis
   
 ## Mission and Goal
 - I aim to implement and engineer technologies to combat CyberCrime Internationally, along with this, I have been personally investigating a CyberCrime Syndicate operating throughout the Asia-Pacific region that targets small businesses. I plan to use this research and goal in my Honours thesis where I aim to expose and take down the syndicate in collaboration with national law enforcement (not currently affiliated in any way), Feel free to [contact me](mailto:contact@greenbeanie.com) if you have any tips or would like to collaborate on this project.
