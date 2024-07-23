@@ -36,5 +36,17 @@
   <img src="/imgs/Lang/Java" alt="Java Logo" height="110" width="120" />
 </p>
 
+## OSINT Stack
+- Geolocation Tracking (Through OSM)
+- Social Media Account trees
+- Reverse search
+- Email, Phone and Password Compromisation indicators
+- Network and Inter-Network based info Analysis
+- Contact Tracing
+- Malware analysis
+  
 ## Mission and Goal
 - I aim to implement and engineer technologies to combat CyberCrime Internationally, along with this, I have been personally investigating a CyberCrime Syndicate operating throughout the Asia-Pacific region that targets small businesses. I plan to use this research and goal in my Honours thesis where I aim to expose and take down the syndicate in collaboration with national law enforcement (not currently affiliated in any way), Feel free to [contact me](mailto:contact@greenbeanie.com) if you have any tips or would like to collaborate on this project.
+
+## Disclaimer 
+- all OSINT or Cyber Security work I have ever done is with EXPLICIT consent from the individual and follows all legal and ethical guidelines set out by my home nation and international regulations, I do not endorse or support the use of these tools for malicious purposes and have never used any to "spy" on behalf of someone. The use of these tools is from personal interest and curiosity, and I do not share or distribute my methods. 
