@@ -50,7 +50,7 @@
 ## Policy, Legislation and GRC stack
  - Privacy Act 2020
  - Crimes Act 1961
- - [InfoSec NZ](https://www.protectivesecurity.govt.nz/policy/information-security)
+ - [InfoSec NZ Protective Security Requirements](https://www.protectivesecurity.govt.nz/policy/information-security)
  - Search and Surveillance Act 2012
  - Private Security Personnel and Private Investigators Act 2010
   
