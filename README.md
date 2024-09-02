@@ -1,7 +1,7 @@
 ## Hey I'm Ben!
 
 - I'm a **First Year Cyber Security** Engineering Hons Student 
-- I Specialise in **Cyber Crime investigation,** Encrypted Communications and Cyrptography
+- I Specialise in **Cyber Crime investigation,** Encrypted Communications and Cryptography
 - I **Lead groups** and projects with a passion for getting things done
 - I sit on 3 Executive boards shown below, VEC, Momentum Wellington and Digital Technologies(by UniServices) 
 - Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more information, [contact me](mailto:contact@greenbeanie.com) or [view my Portfolio](https://www.greenbeanie.dev/)
