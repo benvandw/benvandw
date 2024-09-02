@@ -1,7 +1,7 @@
 ## Hey I'm Ben!
 
 - I'm a **First Year Cyber Security** Engineering Hons Student 
-- I Specialise in **Cyber Crime investigation,** Digital Forensics and Incident Response
+- I Specialise in **Cyber Crime investigation,** Encrypted Communications and Cyrptography
 - I **Lead groups** and projects with a passion for getting things done
 - I sit on 3 Executive boards shown below, VEC, Momentum Wellington and Digital Technologies(by UniServices) 
 - Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more information, [contact me](mailto:contact@greenbeanie.com) or [view my Portfolio](https://www.greenbeanie.dev/)
@@ -56,6 +56,7 @@
   
 ## Mission and Goal
 - I aim to implement and engineer technologies to combat CyberCrime Internationally, along with this, I have been personally investigating a CyberCrime Syndicate operating throughout the Asia-Pacific region that targets small businesses. I plan to use this research and goal in my Honours thesis where I aim to expose and take down the syndicate in collaboration with national law enforcement (not currently affiliated in any way), Feel free to [contact me](mailto:contact@greenbeanie.com) if you have any tips or would like to collaborate on this project.
+- Another goal of mine is to implement a devloping understanding of Cyptographic methods and Finate state machines to crack some of the hardest ecnryption algorithms that we hae today, and to work on designing and implementing more secure ones, this goal allows me to align with my idelas of working alongside law enforcement or government bodies to protect citizens from hidden threats and to ensure confidentiality and security on things that could be used to harm them.
 ## Community 
 - Working with teachers from New Zealand High Schools, I assist in catching the use of AI in classrooms, while fighting for both sides, ensuring students can utilise some Ai tools, but not to an extent that defeats the purpose of the lesson the teachers are working to promote. To achieve this, I use my knowledge of Machine Learning algorithms and AI applications to catch ~99% of all AI use thus benifiting the teachers, then to help the students, I take in thier veiws responses and experiance with the teachers repremandations and accusations to attempt to reduce tention between faculty and students, this as a whole leads to a more fluid and unified education system.
 ## Disclaimer 
