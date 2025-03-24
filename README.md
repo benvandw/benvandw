@@ -1,14 +1,14 @@
 ## Hey I'm Ben!
 
-- I'm a **First Year Cyber Security** Engineering Hons Student 
-- I Specialise in **Cyber Crime investigation,** Encrypted Communications and Cryptography
+- I'm a **Second Year Cyber Security** Engineering (Hons) Student 
+- I Specialise in **Encrypted Communications** and **Cryptography**
 - I **Lead groups** and projects with a passion for getting things done
-- I sit on 3 Executive boards shown below, VEC, Momentum Wellington and Digital Technologies(by UniServices) 
+- I sit on 4 Executive boards shown below, VEC, VUW STEM, Momentum Wellington and UniServices' Digital Technologies  
 - Check out my [LinkedIn](https://www.linkedin.com/in/ben-vandw/) for more information, [contact me](mailto:contact@greenbeanie.com) or [view my Portfolio](https://www.greenbeanie.dev/)
 
 ## Organisations
 <p align="left">
-  <img src="/imgs/Orgs/Macdiarmid.png" alt="Macdiarmid logo" height="100" width="100" />
+  <!-- img src="/imgs/Orgs/Macdiarmid.png" alt="Macdiarmid logo" height="100" width="100" />-->
   <img src="/imgs/Orgs/VUW.png" alt="VUW Logo" height="100" width="100" />
   <img src="/imgs/Orgs/VEC.png" alt="VEC logo" height="100" width="100" />
   <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="110" width="142" />
@@ -35,6 +35,8 @@
    <img src="/imgs/Lang/C" alt="C Logo" height="100" width="115" />
    <img src="/imgs/Lang/Java" alt="Java Logo" height="110" width="120" />
   <img src="/imgs/Lang/Python" alt="Python logo" height="100" width="100" />
+   <img src="/imgs/Lang/HTML" alt="HTML Logo" height="100" width="120" />
+   <img src="/imgs/Lang/SQL" alt="SQL Logo" height="80" width="140" />
 </p>
 
 ## OSINT Stack
