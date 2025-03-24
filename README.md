@@ -32,9 +32,9 @@
 
 <p align="left">
   <img src="/imgs/Lang/C++" alt="C++ logo" height="100" width="85" />
+   <img src="/imgs/Lang/C" alt="C Logo" height="100" width="115" />
    <img src="/imgs/Lang/Java" alt="Java Logo" height="110" width="120" />
   <img src="/imgs/Lang/Python" alt="Python logo" height="100" width="100" />
-   <img src="/imgs/Lang/CLogo" alt="C Logo" height="100" width="100" />
 </p>
 
 ## OSINT Stack
