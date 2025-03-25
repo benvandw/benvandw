@@ -1,4 +1,4 @@
-## Hey I'm Ben!
+## Kia Ora I'm Ben,
 
 - I'm a **Second Year Cyber Security** Engineering (Hons) Student 
 - I Specialise in **Encrypted Communications** and **Cryptography**
