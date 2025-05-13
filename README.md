@@ -18,7 +18,7 @@
    <img src="/imgs/Orgs/EA.png" alt="Engineers Australia logo" height="100" width="120" />
   <img src="/imgs/Orgs/Momentum.png" alt="Momentum logo" height="100" width="100" />
   <img src="/imgs/Orgs/ROS.png" alt="Return on Science Digital Technologies logo" height="100" width="200" />
-  <img src="/imgs/Orgs/Korora.png" alt="Project Korora logo" height="100" width="200" />
+  <img src="/imgs/Orgs/Korora.jpg" alt="Project Korora logo" height="100" width="200" />
 </p>
 
 ## Platforms
