@@ -15,10 +15,10 @@
   <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="110" width="142" />
   <img src="/imgs/Orgs/AjaxIA.png" alt="ajaxia logo" height="110" width="110" />
   <img src="/imgs/Orgs/EngNZ.png" alt="Engineering NZ logo" height="100" width="179" />
-   <img src="/imgs/Orgs/EA.png" alt="Engineers Australia logo" height="100" width="120" />
+  <img src="/imgs/Orgs/EA.png" alt="Engineers Australia logo" height="100" width="120" />
   <img src="/imgs/Orgs/Momentum.png" alt="Momentum logo" height="100" width="100" />
   <img src="/imgs/Orgs/ROS.png" alt="Return on Science Digital Technologies logo" height="100" width="250" />
-  <img src="/imgs/Orgs/Korora.png" alt="Project Korora logo" height="100" width="100" />
+  <!--img src="/imgs/Orgs/Korora1.png" alt="Project Korora logo" height="150" width="150" />-->
 </p>
 
 ## Platforms
@@ -27,7 +27,7 @@
   <img src="/imgs/Plats/arch.png" alt="Ubuntu logo" height="90" width="90" />
   <img src="/imgs/Plats/Ubuntu" alt="Ubuntu logo" height="120" width="120" />
   <img src="/imgs/Plats/GitLab" alt="GitLab logo" height="128" width="100" />
-  <img src="/imgs/Plats/github.png" alt="GitHub logo" height="110" width="110" />
+  <!--img src="/imgs/Plats/github.png" alt="GitHub logo" height="110" width="110" />-->
   <img src="/imgs/Plats/autopsy-logo.svg" alt="Autopsy logo" height="120" width="120" />
   <img src="/imgs/Plats/Powershell" alt="Powershell logo" height="100" width="100" />
   <img src="/imgs/Plats/GDB" alt="GNU Debugger logo" height="100" width="100" />
