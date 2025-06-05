@@ -13,7 +13,7 @@
   <img src="/imgs/Orgs/VUW.png" alt="VUW Logo" height="100" width="100" />
   <img src="/imgs/Orgs/VEC.png" alt="VEC logo" height="100" width="100" />
   <img src="/imgs/Orgs/VSEC.png" alt="VSEC logo" height="110" width="142" />
-  <!--img src="/imgs/Orgs/AjaxIA.png" alt="ajaxia logo" height="110" width="110" /-->>
+  <!--img src="/imgs/Orgs/AjaxIA.png" alt="ajaxia logo" height="110" width="110" />-->
   <img src="/imgs/Orgs/AerospaceNZLogo.png" alt="Aerospace New Zealand logo" height="110" width="250" />
   <img src="/imgs/Orgs/EngNZ.png" alt="Engineering NZ logo" height="100" width="179" />
   <img src="/imgs/Orgs/EA.png" alt="Engineers Australia logo" height="100" width="120" />
