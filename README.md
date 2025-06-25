@@ -42,6 +42,7 @@
   <img src="/imgs/Lang/C++" alt="C++ logo" height="100" width="85" />
    <img src="/imgs/Lang/C" alt="C Logo" height="100" width="115" />
    <img src="/imgs/Lang/Java" alt="Java Logo" height="110" width="120" />
+  <img src="/imgs/Lang/Rust" alt="Rust Logo" height="110" width="120" />
   <img src="/imgs/Lang/Python" alt="Python logo" height="100" width="100" />
    <img src="/imgs/Lang/HTML" alt="HTML Logo" height="100" width="120" />
    <img src="/imgs/Lang/SQL" alt="SQL Logo" height="80" width="140" />
