@@ -28,11 +28,12 @@
   <img src="/imgs/Plats/arch.png" alt="Ubuntu logo" height="90" width="90" />
   <img src="/imgs/Plats/Ubuntu" alt="Ubuntu logo" height="120" width="120" />
   <img src="/imgs/Plats/GitLab" alt="GitLab logo" height="128" width="100" />
-  <!--img src="/imgs/Plats/github.png" alt="GitHub logo" height="110" width="110" />-->
+  <img src="/imgs/Plats/docker.png" alt="docker logo" height="110" width="110" />>
   <img src="/imgs/Plats/autopsy-logo.svg" alt="Autopsy logo" height="120" width="120" />
   <img src="/imgs/Plats/Powershell" alt="Powershell logo" height="100" width="100" />
   <img src="/imgs/Plats/GDB" alt="GNU Debugger logo" height="100" width="100" />
   <img src="/imgs/Plats/WireShark.png" alt="Wireshark logo" height="80" width="80" />
+  
  
 </p>
 
