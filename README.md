@@ -52,6 +52,14 @@
    
 </p>
 
+## Policy, Legislation and GRC stack
+I'm Familiar and competent with regulations based on the following
+ - Privacy Act 2020
+ - Crimes Act 1961
+ - [InfoSec NZ Protective Security Requirements](https://www.protectivesecurity.govt.nz/policy/information-security)
+ - Search and Surveillance Act 2012
+ - Private Security Personnel and Private Investigators Act 2010
+<!--
 ## OSINT Stack
 - Reverse search
 - Contact Tracing
@@ -61,15 +69,11 @@
 - Geolocation Tracking (Through OSM)
 - Network and Inter-Network based info Analysis
 - Email, Phone and Password Compromisation indicators
+--!>
 
 
-## Policy, Legislation and GRC stack
- - Privacy Act 2020
- - Crimes Act 1961
- - [InfoSec NZ Protective Security Requirements](https://www.protectivesecurity.govt.nz/policy/information-security)
- - Search and Surveillance Act 2012
- - Private Security Personnel and Private Investigators Act 2010
-
+<!--
 ## Community 
 - Working with teachers from New Zealand High Schools, I assist in catching the use of AI in classrooms, fighting for both sides, educating students on the occasional utility of AI tools. To achieve this, I use my knowledge of Machine Learning algorithms and AI applications to catch ~98.4% of all AI use thus benifiting the teachers, then to help the students, I attempt to reduce tention between faculty and students, hoping this as a whole leads to a more fluid and unified education system.
 - I lead a team of Incident responders and experts on upkeeping Project Korora and implementing key policy desicions and action plans
+--!>
