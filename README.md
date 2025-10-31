@@ -1,6 +1,6 @@
 ## Kia Ora I'm Ben,
 
-- I'm a **Second Year Cyber Security** Engineering (Hons) Student 
+- I'm a **Third Year Cyber Security** Engineering (Hons) Student 
 - I Specialise in **Incident Response** and **Continuity**
 - I spend my free time looking into **Encryption** and working on [**Project Korora**](https://github.com/Project-Korora)
 - I **Lead groups** and projects with a passion for getting things done
